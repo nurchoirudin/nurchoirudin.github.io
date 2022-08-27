@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknur_choirudin=self.webpackChunknur_choirudin||[]).push([[691],{7200:function(e,n,u){u.r(n),u.d(n,{Head:function(){return r}});var t=u(7294);n.default=function(){return t.createElement("main",null,t.createElement("h1",null,"Hello"))};var r=function(){return t.createElement("title",null,"Home Page")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-675f48c743431480667a.js.map

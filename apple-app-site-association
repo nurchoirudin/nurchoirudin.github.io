@@ -6,11 +6,15 @@
         "appID": "8YFZ2N3JSC.com.mandirisekuritas.growin.dev",
         "paths": [ 
           "/",
-          "/articles/*", 
-          "/products/*", 
-          "/login"
+          "*"
         ]
       }
     ]
+  } ,
+  "webcredentials": {
+    "apps": "8YFZ2N3JSC.com.mandirisekuritas.growin.dev"
+  },
+  "appclips": {
+    "apps": "8YFZ2N3JSC.com.mandirisekuritas.growin.dev"
   }
 }

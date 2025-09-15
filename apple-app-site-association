@@ -1,0 +1,22 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8YFZ2N3JSC.com.mandirisekuritas.growin.dev",
+        "paths": [
+          "*",
+          "/"
+        ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": []
+  },
+  "webcredentials": {
+    "apps": [
+      "8YFZ2N3JSC.com.mandirisekuritas.growin.dev"
+    ]
+  }
+}
